@@ -1,4 +1,5 @@
 Olá, meu nome é Vinícius William 👨‍💻✨
+
 Seja muito bem vindo ao meu Perfil!🏠
 
 Programador Full-Stack & Designer 🎨💻
@@ -35,6 +36,7 @@ Foco em Resultados e Inovação:
 Comprometido em entregar resultados que superem as expectativas dos clientes e usuários. 🚀
 
 Contato 📬
+
 Email: viniciuswcontato@gmail.com 
 
 LinkedIn: www.linkedin.com/in/vinicius-william-mb
