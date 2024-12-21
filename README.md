@@ -40,4 +40,6 @@ LinkedIn: www.linkedin.com/in/vinicius-william-mb
 
 GitHub: www.github.com/ViniciusWMBV
 
+É com muito carinho que compartilho meus projetos. Espero que eles sejam úteis e inspirem vocês! 💡
+
 Contribuições são bem-vindas para futuras melhorias! Vamos continuar aprendendo juntos! 🌱
