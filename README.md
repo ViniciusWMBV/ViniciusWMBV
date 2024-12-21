@@ -9,22 +9,22 @@
 ##### Linguagens de Programação, Marcação e Estilização:
 C#, HTML, CSS, JavaScript, PHP, SQL, C++, Python, entre outros. 🚀
 
-Designer e Ferramentas Criativas 🎨:
+##### Designer e Ferramentas Criativas 🎨:
 Adobe Photoshop, CorelDRAW, Figma, Canva, entre outros. 🎨
 
-Banco de Dados & Armazenamento de Dados 📊:
+##### Banco de Dados & Armazenamento de Dados 📊:
 MySQL.
 
-Ferramentas e Tecnologias de Desenvolvimento 🖥️:
+##### Ferramentas e Tecnologias de Desenvolvimento 🖥️:
 Vs Code, Visual Studio, Sublime Text, GitHub, VirtualBox, Trello, entre outros. ⚙️
 
-Pacote Office & Ferramentas de Colaboração 📈:
+##### Pacote Office & Ferramentas de Colaboração 📈:
 Microsoft Word, Excel, PowerPoint, Teams, Google Drive, entre outros. 📅
 
-Sistemas Operacionais e Plataformas 💻🖥️:
+##### Sistemas Operacionais e Plataformas 💻🖥️:
 Windows (XP,7,10,11), Linux (Ubuntu, Kali, Parrot OS), Android, e conhecimento básico de macOS. 🖥️
 
-Aptidões Pessoais 🤝
+##### Aptidões Pessoais 🤝
 
 Aprendizado Contínuo:
 Sempre em busca de novos desafios, tecnologias e melhorias em todos os projetos em que me envolvo. 📚
@@ -35,13 +35,13 @@ Colaboro com equipes multifuncionais para alcançar soluções de alta qualidade
 Foco em Resultados e Inovação:
 Comprometido em entregar resultados que superem as expectativas dos clientes e usuários. 🚀
 
-Contato 📬
+##Contato 📬
 
-Email: viniciuswcontato@gmail.com 
+####Email: viniciuswcontato@gmail.com 
 
-LinkedIn: www.linkedin.com/in/vinicius-william-mb
+####LinkedIn: www.linkedin.com/in/vinicius-william-mb
 
-GitHub: www.github.com/ViniciusWMBV
+####GitHub: www.github.com/ViniciusWMBV
 
 É com muito carinho que compartilho meus projetos. Espero que eles sejam úteis e inspirem vocês! 💡
 
