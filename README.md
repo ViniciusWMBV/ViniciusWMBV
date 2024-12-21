@@ -39,3 +39,5 @@ Email: viniciuswcontato@gmail.com
 LinkedIn: www.linkedin.com/in/vinicius-william-mb
 
 GitHub: www.github.com/ViniciusWMBV
+
+Contribuições são bem-vindas para futuras melhorias! Vamos continuar aprendendo juntos! 🌱
