@@ -35,5 +35,7 @@ Comprometido em entregar resultados que superem as expectativas dos clientes e u
 
 Contato 📬
 Email: viniciuswcontato@gmail.com 
+
 LinkedIn: www.linkedin.com/in/vinicius-william-mb
-GitHub: github.com/ViniciusWMBV
+
+GitHub: www.github.com/ViniciusWMBV
