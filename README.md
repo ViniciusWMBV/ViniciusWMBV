@@ -35,14 +35,14 @@ Colaboro com equipes multifuncionais para alcançar soluções de alta qualidade
 Foco em Resultados e Inovação:
 Comprometido em entregar resultados que superem as expectativas dos clientes e usuários. 🚀
 
-##Contato 📬
+## Contato 📬
 
-####Email: viniciuswcontato@gmail.com 
+#### Email: viniciuswcontato@gmail.com 
 
-####LinkedIn: www.linkedin.com/in/vinicius-william-mb
+#### LinkedIn: www.linkedin.com/in/vinicius-william-mb
 
-####GitHub: www.github.com/ViniciusWMBV
+#### GitHub: www.github.com/ViniciusWMBV
 
-É com muito carinho que compartilho meus projetos. Espero que eles sejam úteis e inspirem vocês! 💡
+###É com muito carinho que compartilho meus projetos. Espero que eles sejam úteis e inspirem vocês! 💡
 
-Contribuições são bem-vindas para futuras melhorias! Vamos continuar aprendendo juntos! 🌱
+###Contribuições são bem-vindas para futuras melhorias! Vamos continuar aprendendo juntos! 🌱
