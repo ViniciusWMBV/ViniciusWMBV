@@ -6,7 +6,7 @@
 
 #### Habilidades Técnicas 🛠️
 
-Linguagens de Programação, Marcação e Estilização:
+#####Linguagens de Programação, Marcação e Estilização:
 C#, HTML, CSS, JavaScript, PHP, SQL, C++, Python, entre outros. 🚀
 
 Designer e Ferramentas Criativas 🎨:
