@@ -1,6 +1,7 @@
-Olá, eu sou o Vinícius William de Moraes Bovencio 👨‍💻✨
+Olá, meu nome é Vinícius William de Moraes Bovencio 👨‍💻✨
+Seja muito bem vindo ao meu Perfil!🏠
 
-Programador Full-Stack & Designer Criativo 🎨💻
+Programador Full-Stack & Designer 🎨💻
 
 Habilidades Técnicas 🛠️
 
@@ -22,7 +23,7 @@ Microsoft Word, Excel, PowerPoint, Teams, Google Drive, entre outros. 📅
 Sistemas Operacionais e Plataformas 💻🖥️:
 Windows (XP,7,10,11), Linux (Ubuntu, Kali, Parrot OS), Android, e conhecimento básico de macOS. 🖥️
 
-Aptidões Pessoais e Soft Skills 🤝
+Aptidões Pessoais 🤝
 
 Aprendizado Contínuo:
 Sempre em busca de novos desafios, tecnologias e melhorias em todos os projetos em que me envolvo. 📚
