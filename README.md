@@ -47,8 +47,6 @@ Comprometido em entregar resultados que superem as expectativas dos clientes e u
 
 #### Contribuições são bem-vindas para futuras melhorias! Vamos continuar aprendendo juntos! 🌱
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?1901DCB5E7240E2786228DB1389BE31DD90E
-
 
 <p align="left">
 </p>
